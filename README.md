@@ -1,1 +1,2 @@
 # Optimisasi-Capacitated-Vehicle-Routing-Problem-CVTP-Menggunakan-Algoritma-Artificial-Bee-Colony
+Proyek ini bertujuan untuk mengoptimalkan solusi dari Capacitated Vehicle Routing Problem (CVRP) menggunakan pendekatan Algoritma Artificial Bee Colony (ABC). Algoritma ini dirancang untuk menemukan rute optimal kendaraan dengan mempertimbangkan kapasitas maksimum kendaraan, sehingga distribusi menjadi lebih efisien dan biaya operasional dapat diminimalkan.
